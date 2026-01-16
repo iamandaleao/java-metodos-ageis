@@ -1,0 +1,28 @@
+A) Classe e Objeto
+- Classe: molde ou modelo = ex: Pessoa
+- Objeto: instância da classe = ex: Pessoa p = new Pessoa("Amanda, 25")
+
+B) Atributos e Métodos
+- Atributos = caracteristicas = ex: nome, idade
+- Métodos = ações que o objeto pode fazer = ex: falar()
+
+c) Construtor
+Método especial com o mesmo nome da classe
+É chamado automaticamente ao criar o objeto
+Define os valores iniciais do objeto
+Usa this para diferenciar atributo do parâmetro
+
+d) Diferença entre classe e objeto
+Classe = conceito
+Objeto = execução do conceito
+Cada objeto tem seus próprios valores
+
+e) Uso prático
+Criar 3 classes diferentes
+Instanciar objetos dessas classes
+Testar métodos
+Garantir que o código roda e faz sentido
+
+Forma resumida (ideal para entrevista):
+
+Criei uma issue no meu projeto pessoal de Java para estudar POO. Planejei a tarefa com Scrum/Kanban, estudei teoria de classes, atributos, métodos e construtores, criei 3 classes diferentes e instanciei objetos. Testei os métodos e revisei o código, garantindo que entendi e consegui explicar o conteúdo. Toda a execução da issue foi acompanhada pelo quadro Kanban do GitHub Projects, simulando um fluxo ágil de trabalho real.
