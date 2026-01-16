@@ -1,3 +1,5 @@
+package isuue1;
+
 public class ArraysExemplos {
     public static void main(String[] args) {
         // Declaração
